@@ -1,6 +1,7 @@
 # Global Documentation
 
 ## Cisco Net Acad
+<<<<<<< HEAD
 [Cisco Packet Tracer]("Cisco/Cisco.md")
 
 ## Command Line Syntax
@@ -22,3 +23,6 @@
 
 - *Italics*
     Italic text indicates information that you must supply with the appropriate value. It is a parameter to be replaces with a value.
+=======
+[Cisco Packet Tracer](Cisco/Cisco.md)
+>>>>>>> 20439f11ec99740091f23bdb9f6dcb3afbf6a42d
