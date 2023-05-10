@@ -1,5 +1,4 @@
-# Cisco Net Acad Cheat Sheet
-`Router# configuration terminal`
+# Global Documentation
 
-## Switch
-### Basic Switch Configuration
+## Cisco Net Acad
+[Cisco Packet Tracer]("Cisco/cisco.md")
